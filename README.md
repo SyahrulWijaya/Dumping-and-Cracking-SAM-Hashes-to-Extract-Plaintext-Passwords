@@ -1,9 +1,9 @@
 # Dumping-and-Cracking-SAM-Hashes-to-Extract-Plaintext-Passwords
 
 ## Tools:
-1. PwDump7, tool untuk mengekstrak password hashes.
-2. Ophcrack, tool untuk crack password dan menerima text password.
-3. vista free, berisi data password crack untuk melakukan bruteforce.
+1. [PwDump7](https://github.com/Seabreg/pwdump), tool untuk mengekstrak password hashes.
+2. [Ophcrack](https://ophcrack.sourceforge.io/download.php), tool untuk crack password dan menerima text password.
+3. [vista free](http://sourceforge.net/projects/ophcrack/files/tables/Vista%20free/tables_vista_free.zip/download), berisi data password crack untuk melakukan bruteforce.
 
 ## Langkah-langkah
 1. Jalankan **Command Prompt** sebagai administrator.
